@@ -1,0 +1,1 @@
+前端模块化：为了更好的处理得到想要的数据，将数据放在一个js文件里，commonJS是把这个js文件导出，在这个js文件里用module.exports来导出。在想要引用的地方用require来引入，在require的时候还可以结构出来，
